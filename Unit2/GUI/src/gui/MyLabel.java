@@ -23,7 +23,6 @@ public class MyLabel {
         Font f=new Font("Arial",Font.BOLD,24);
         label.setFont(f);
 
-
         container.add(label);
     }
 }
