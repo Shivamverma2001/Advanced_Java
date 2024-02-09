@@ -35,7 +35,7 @@ public class Prac1 {
         password.setBounds(200,100,150,50);
 
         password.setFont(font);
-        password.setText("Enter your username");
+        password.setText("Password");
 
         container.add(nameL);
         container.add(passwordL);
