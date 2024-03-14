@@ -38,7 +38,7 @@ private String userName;
 private String emailId;
 
 //for setting compulsory field 
-// public UserBuilder(String uName){
+// public UserBuilder(String uName ){
 //     userName=uName;
 // }
 
